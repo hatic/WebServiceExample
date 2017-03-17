@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\webServiceUrunAraApp\webServiceUrunAraApp\bin\Debug\webServiceUrunAraApp.exe.config
+c:\users\user\documents\visual studio 2012\Projects\webServiceUrunAraApp\webServiceUrunAraApp\bin\Debug\webServiceUrunAraApp.exe
+c:\users\user\documents\visual studio 2012\Projects\webServiceUrunAraApp\webServiceUrunAraApp\bin\Debug\webServiceUrunAraApp.pdb
+c:\users\user\documents\visual studio 2012\Projects\webServiceUrunAraApp\webServiceUrunAraApp\obj\Debug\webServiceUrunAraApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\webServiceUrunAraApp\webServiceUrunAraApp\obj\Debug\webServiceUrunAraApp.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\webServiceUrunAraApp\webServiceUrunAraApp\obj\Debug\webServiceUrunAraApp.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\webServiceUrunAraApp\webServiceUrunAraApp\obj\Debug\webServiceUrunAraApp.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\webServiceUrunAraApp\webServiceUrunAraApp\obj\Debug\webServiceUrunAraApp.exe
+c:\users\user\documents\visual studio 2012\Projects\webServiceUrunAraApp\webServiceUrunAraApp\obj\Debug\webServiceUrunAraApp.pdb

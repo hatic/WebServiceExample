@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\WebServiceUrunAra\WebServiceUrunAra\bin\WebServiceUrunAra.dll
+c:\users\user\documents\visual studio 2012\Projects\WebServiceUrunAra\WebServiceUrunAra\bin\WebServiceUrunAra.pdb
+c:\users\user\documents\visual studio 2012\Projects\WebServiceUrunAra\WebServiceUrunAra\obj\Debug\WebServiceUrunAra.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\WebServiceUrunAra\WebServiceUrunAra\obj\Debug\WebServiceUrunAra.dll
+c:\users\user\documents\visual studio 2012\Projects\WebServiceUrunAra\WebServiceUrunAra\obj\Debug\WebServiceUrunAra.pdb
