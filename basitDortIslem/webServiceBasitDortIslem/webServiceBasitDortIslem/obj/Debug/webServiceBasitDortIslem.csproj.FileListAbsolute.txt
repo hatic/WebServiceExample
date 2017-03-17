@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\perakendeMagazaWebServis\perakendeMagazaWebServis\bin\perakendeMagazaWebServis.dll
+c:\users\user\documents\visual studio 2012\Projects\perakendeMagazaWebServis\perakendeMagazaWebServis\bin\perakendeMagazaWebServis.pdb
+c:\users\user\documents\visual studio 2012\Projects\perakendeMagazaWebServis\perakendeMagazaWebServis\obj\Debug\perakendeMagazaWebServis.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\perakendeMagazaWebServis\perakendeMagazaWebServis\obj\Debug\perakendeMagazaWebServis.dll
+c:\users\user\documents\visual studio 2012\Projects\perakendeMagazaWebServis\perakendeMagazaWebServis\obj\Debug\perakendeMagazaWebServis.pdb

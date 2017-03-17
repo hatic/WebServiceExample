@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\ServicedenBilgiAlarakToplama\ServicedenBilgiAlarakToplama\bin\Debug\ServicedenBilgiAlarakToplama.exe.config
+c:\users\user\documents\visual studio 2012\Projects\ServicedenBilgiAlarakToplama\ServicedenBilgiAlarakToplama\bin\Debug\ServicedenBilgiAlarakToplama.exe
+c:\users\user\documents\visual studio 2012\Projects\ServicedenBilgiAlarakToplama\ServicedenBilgiAlarakToplama\bin\Debug\ServicedenBilgiAlarakToplama.pdb
+c:\users\user\documents\visual studio 2012\Projects\ServicedenBilgiAlarakToplama\ServicedenBilgiAlarakToplama\obj\Debug\ServicedenBilgiAlarakToplama.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ServicedenBilgiAlarakToplama\ServicedenBilgiAlarakToplama\obj\Debug\ServicedenBilgiAlarakToplama.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\ServicedenBilgiAlarakToplama\ServicedenBilgiAlarakToplama\obj\Debug\ServicedenBilgiAlarakToplama.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\ServicedenBilgiAlarakToplama\ServicedenBilgiAlarakToplama\obj\Debug\ServicedenBilgiAlarakToplama.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\ServicedenBilgiAlarakToplama\ServicedenBilgiAlarakToplama\obj\Debug\ServicedenBilgiAlarakToplama.exe
+c:\users\user\documents\visual studio 2012\Projects\ServicedenBilgiAlarakToplama\ServicedenBilgiAlarakToplama\obj\Debug\ServicedenBilgiAlarakToplama.pdb
