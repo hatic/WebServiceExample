@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Visual Studio 2008\Projects\barkodUygulamasi\barkodUygulamasi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\barkodUygulamasi\barkodUygulamasi\obj\Debug\barkodUygulamasi.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\barkodUygulamasi\barkodUygulamasi\obj\Debug\barkodUygulamasi.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\barkodUygulamasi\barkodUygulamasi\obj\Debug\barkodUygulamasi.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\barkodUygulamasi\barkodUygulamasi\bin\Debug\barkodUygulamasi.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\barkodUygulamasi\barkodUygulamasi\bin\Debug\barkodUygulamasi.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\barkodUygulamasi\barkodUygulamasi\obj\Debug\barkodUygulamasi.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\barkodUygulamasi\barkodUygulamasi\obj\Debug\barkodUygulamasi.pdb

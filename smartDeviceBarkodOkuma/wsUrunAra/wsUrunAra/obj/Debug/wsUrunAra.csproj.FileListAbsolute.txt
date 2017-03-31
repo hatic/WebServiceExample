@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2012\Projects\wsUrunAra\wsUrunAra\bin\wsUrunAra.dll
+c:\users\user\documents\visual studio 2012\Projects\wsUrunAra\wsUrunAra\bin\wsUrunAra.pdb
+c:\users\user\documents\visual studio 2012\Projects\wsUrunAra\wsUrunAra\obj\Debug\wsUrunAra.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\wsUrunAra\wsUrunAra\obj\Debug\wsUrunAra.dll
+c:\users\user\documents\visual studio 2012\Projects\wsUrunAra\wsUrunAra\obj\Debug\wsUrunAra.pdb
